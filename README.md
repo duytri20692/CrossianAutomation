@@ -41,13 +41,13 @@ Chương trình hỗ trợ **nhiều học sinh cùng có điểm cao nhất**.
 git clone <link_repo>
 ```
 ```bash
-cd <tên_thư_mục>
+cd <tên_thư_mục>/src
 ```
 
 ### 3. Biên dịch chương trình
 
 ```bash
-javac GradeReport.java
+javac -encoding UTF-8 GradeReport.java
 ```
 
 ### 4. Chạy chương trình
